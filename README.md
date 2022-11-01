@@ -1,4 +1,8 @@
-# realtime-colors-palette-app
+# İmages
+
+### Gerçek zamanlı geliştirdiğim renk palete uygulaması.
+
+![alt text](https://i.hizliresim.com/mn02d57.jpg)
 
 # Getting Started with Create React App
 
