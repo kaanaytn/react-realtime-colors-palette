@@ -1,6 +1,6 @@
 # İmages
 
-### Gerçek zamanlı geliştirdiğim renk palete uygulaması.
+Gerçek zamanlı geliştirdiğim renk paleti uygulaması.
 
 ![alt text](https://i.hizliresim.com/mn02d57.jpg)
 
