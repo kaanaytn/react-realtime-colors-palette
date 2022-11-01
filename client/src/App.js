@@ -10,14 +10,15 @@ function App() {
   useEffect(() => {
     init();
 
-    subscribe((color)=>{
-      setActiveColor(color)
+    subscribe((color) => {
+      setActiveColor(color);
     });
   }, []);
 
   return (
     <div className='App' style={{ backgroundColor: activeColor }}>
-      <Palette />
+      <h1>{activeColor}</h1>
+      <Palette activeColor={activeColor} />
     </div>
   );
 }
